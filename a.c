@@ -1,2 +1,2 @@
-str="master 1";
+str="new issue 1";
 
